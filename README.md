@@ -15,11 +15,11 @@ A Chrome extension that displays the real-time price of gas (in Gwei) on the **H
 
 # How to test locally
 
-Clone this repo:
+You can clone this repo:
 ```bash
 git clone https://github.com/Charles-ElieB/HyperEVM-Gwei-Tracker.git
-cd HyperEVM-Gwei-Tracker```
-
+cd HyperEVM-Gwei-Tracker
+```
 
 # Developper info
 
