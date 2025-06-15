@@ -21,7 +21,9 @@ git clone https://github.com/Charles-ElieB/HyperEVM-Gwei-Tracker.git
 cd HyperEVM-Gwei-Tracker
 
 
+
+
 ## Developper info
 
-This extension was developed by a member of the Hyperliquid discord (charleselie8706 aka EleonMusk).
+This extension was developed by a member of the Hyperliquid discord (charleselie8706 aka EleonMusk)
 Ethereum-compatible address (for proof of contribution) : 0x97C6D5B8dd11D05591b230642f9AA3B79080dDe7
